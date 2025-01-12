@@ -1,5 +1,5 @@
 # Resources
 
 - [Learning resources](learning-resources.md)
-- [Documentation references]
+- [Documentation references](doc-references.md)
 - [Past work](past-work.md)
